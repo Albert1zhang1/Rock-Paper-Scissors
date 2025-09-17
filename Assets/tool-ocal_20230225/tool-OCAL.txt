@@ -1,0 +1,17 @@
+
+- compass_01: https://openclipart.org/detail/301393
+- compass_02: https://openclipart.org/detail/171173
+- compass_03: https://openclipart.org/detail/95083
+- compass_04: https://openclipart.org/detail/181435
+- compass_geometric_01: https://openclipart.org/detail/183936
+- compass_geometric_02: https://openclipart.org/detail/126697
+- ruler_01: https://openclipart.org/detail/13662
+- ruler_triangle_01: https://openclipart.org/detail/233777
+- scissors_01: https://openclipart.org/detail/449
+- tape_measure_01: https://openclipart.org/detail/10430
+- tape_measure_02: https://openclipart.org/detail/32185
+- tape_measure_03: https://openclipart.org/detail/285706
+- tape_measure_04: https://openclipart.org/detail/325712
+- toolbox_01: https://openclipart.org/detail/95239
+- toolbox_02: https://openclipart.org/detail/95359
+- wiresnips: https://openclipart.org/detail/216787
